@@ -1,0 +1,16 @@
+C:\Users\Steven Townsend\source\repos\Steven-Townsend-Programing-Test\Steven-Townsend-Programing-Test\obj\Debug\Steven-Townsend-Programing-Test.csproj.AssemblyReference.cache
+C:\Users\Steven Townsend\source\repos\Steven-Townsend-Programing-Test\Steven-Townsend-Programing-Test\obj\Debug\Steven-Townsend-Programing-Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven Townsend\source\repos\Steven-Townsend-Programing-Test\Steven-Townsend-Programing-Test\obj\Debug\MainWindow.g.cs
+C:\Users\Steven Townsend\source\repos\Steven-Townsend-Programing-Test\Steven-Townsend-Programing-Test\obj\Debug\App.g.cs
+C:\Users\Steven Townsend\source\repos\Steven-Townsend-Programing-Test\Steven-Townsend-Programing-Test\obj\Debug\Steven-Townsend-Programing-Test_MarkupCompile.cache
+C:\Users\Steven Townsend\source\repos\Steven-Townsend-Programing-Test\Steven-Townsend-Programing-Test\obj\Debug\Steven-Townsend-Programing-Test_MarkupCompile.lref
+C:\Users\Steven Townsend\source\repos\Steven-Townsend-Programing-Test\Steven-Townsend-Programing-Test\bin\Debug\Steven-Townsend-Programing-Test.exe.config
+C:\Users\Steven Townsend\source\repos\Steven-Townsend-Programing-Test\Steven-Townsend-Programing-Test\bin\Debug\Steven-Townsend-Programing-Test.exe
+C:\Users\Steven Townsend\source\repos\Steven-Townsend-Programing-Test\Steven-Townsend-Programing-Test\bin\Debug\Steven-Townsend-Programing-Test.pdb
+C:\Users\Steven Townsend\source\repos\Steven-Townsend-Programing-Test\Steven-Townsend-Programing-Test\obj\Debug\MainWindow.baml
+C:\Users\Steven Townsend\source\repos\Steven-Townsend-Programing-Test\Steven-Townsend-Programing-Test\obj\Debug\Steven-Townsend-Programing-Test.g.resources
+C:\Users\Steven Townsend\source\repos\Steven-Townsend-Programing-Test\Steven-Townsend-Programing-Test\obj\Debug\Steven_Townsend_Programing_Test.Properties.Resources.resources
+C:\Users\Steven Townsend\source\repos\Steven-Townsend-Programing-Test\Steven-Townsend-Programing-Test\obj\Debug\Steven-Townsend-Programing-Test.csproj.GenerateResource.cache
+C:\Users\Steven Townsend\source\repos\Steven-Townsend-Programing-Test\Steven-Townsend-Programing-Test\obj\Debug\Steven-Townsend-Programing-Test.csproj.CoreCompileInputs.cache
+C:\Users\Steven Townsend\source\repos\Steven-Townsend-Programing-Test\Steven-Townsend-Programing-Test\obj\Debug\Steven-Townsend-Programing-Test.exe
+C:\Users\Steven Townsend\source\repos\Steven-Townsend-Programing-Test\Steven-Townsend-Programing-Test\obj\Debug\Steven-Townsend-Programing-Test.pdb

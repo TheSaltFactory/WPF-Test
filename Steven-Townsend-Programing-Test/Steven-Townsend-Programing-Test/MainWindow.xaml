@@ -1,0 +1,15 @@
+﻿<Window x:Class="Steven_Townsend_Programing_Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Steven_Townsend_Programing_Test"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="21,17,27,26">
+        <Border BorderBrush="Black" BorderThickness="1"/>
+        <TextBox x:Name="WelcomeText" HorizontalAlignment="Center" Margin="0,62,0,0" TextWrapping="Wrap" Text="Welcome" VerticalAlignment="Top" Width="376" Height="51" RenderTransformOrigin="0.523,-0.519" TextChanged="TextBox_TextChanged" FontSize="14" Foreground="Gray" TextAlignment="Center" BorderThickness="2,2,2,2"/>
+        <TextBox x:Name="ChangeText" Text="Hit the Enter Key" Margin="239,153,239,152" RenderTransformOrigin="0.499,0.49" TextAlignment="Center" BorderThickness="2,2,2,2" Foreground="Gray" FontSize="14" TextWrapping="Wrap" TextChanged="ChangeText_TextChanged"/>
+        <Button x:Name="Change" Content="Enter" HorizontalAlignment="Center" Margin="0,303,0,0" VerticalAlignment="Top" Height="32" Width="113" Background="#FFFDFDFD" BorderThickness="2,2,2,2" FontSize="14" Foreground="#FF949090" BorderBrush="#FFA5A0A0" Click="ChangeButton_Click"/>
+    </Grid>
+</Window>
